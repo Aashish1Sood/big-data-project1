@@ -1,4 +1,6 @@
-There are 5 major sub-folders in the Assignment. One for each of the 3 datasets, one for the airport and one for tika-similarity computation for all the joined features of 4 datasets.
+#Analysis of UFO Sightings Data
+There are 5 major sub-folders in this repository. 
+One for each of the 3 datasets, one for the airport and one for tika-similarity computation for all the joined features of 4 datasets.
 Each folder for dataset contains the python scripts to extract the features, the input data required to process the data and its resulting output. The tika_similarity folder contains python scripts for computing EditDistance similarity, cosine similarity and jaccard similarity for the features present in joined dataset.
 
 The main input file containing the ufo data is :- ufo_awesome.json
@@ -24,13 +26,13 @@ Also make sure mongo is running on the terminal
 
 The important files present in the folders are :-
 
-1) geo.py
+##1) geo.py
 -- Used to read the ufo_awesome.json file and geocode it to find the latitude and longitude of all the locations in the ufo_sightings.
 -- Made use of pickle to store the geocoded data into chunks of 300 as the geopy api has a constraint of geocoding only a limited number of locations per API after which the program gives a timeout error.
 -- For locations in countries outside the US, we have reverse geocoded them to get their respective regions
 
 
-2) combine_pickle_files.py
+##2) combine_pickle_files.py
 -- Used to combine the chunks of pickle files into a single pickle file
 
 
