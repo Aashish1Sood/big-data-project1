@@ -1,0 +1,1550 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                }
+            ],
+            "name": "cluster 0"
+        },
+        {
+            "children": [
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteSci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteSci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteSci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteSci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.10526315789473684",
+                    "size": "0.10526315789473684"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                }
+            ],
+            "name": "cluster 1"
+        },
+        {
+            "children": [
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.05",
+                    "size": "0.05"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2727272727272727",
+                    "size": "0.2727272727272727"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                }
+            ],
+            "name": "cluster 2"
+        },
+        {
+            "children": [
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteSci-fiFalseisRural  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.07692307692307693",
+                    "size": "0.07692307692307693"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                }
+            ],
+            "name": "cluster 3"
+        },
+        {
+            "children": [
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3548387096774194",
+                    "size": "0.3548387096774194"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3548387096774194",
+                    "size": "0.3548387096774194"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3548387096774194",
+                    "size": "0.3548387096774194"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3548387096774194",
+                    "size": "0.3548387096774194"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3548387096774194",
+                    "size": "0.3548387096774194"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteTRUESci-fiFalseisRuralTrue  0.13513513513513514",
+                    "size": "0.13513513513513514"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.3125",
+                    "size": "0.3125"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRural  0.4",
+                    "size": "0.4"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralFalse  0.2",
+                    "size": "0.2"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.23529411764705882",
+                    "size": "0.23529411764705882"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                },
+                {
+                    "name": "MeteoriteFALSESci-fiFalseisRuralTrue  0.16666666666666666",
+                    "size": "0.16666666666666666"
+                }
+            ],
+            "name": "cluster 4"
+        }
+    ],
+    "name": "clusters"
+}
