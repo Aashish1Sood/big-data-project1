@@ -43,5 +43,5 @@ A step by step guide is provided in readme.txt on how to use this code
 
 ## Built With
 
-* [Apache Tika](https://tika.apache.org/) - The web framework used
+* [Apache Tika](https://tika.apache.org/) 
 
